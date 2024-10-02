@@ -20,4 +20,4 @@ const sayHello = async (req, res) => {
     }
 }
 
-module.exports = { userInformation }
+module.exports = { userInformation, sayHello }
